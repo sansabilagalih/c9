@@ -42,6 +42,12 @@ chmod 777 install.sh
 ./install.sh
 ```
 
+- **Masuk ke folder C9.**
+
+```bash
+cd c9sdk/
+```
+
 - **Jalankan server C9**
 ```bash
 nodejs server.js -p 8080 -l 0.0.0.0 -a user:pass -w /home
