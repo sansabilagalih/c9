@@ -1,6 +1,6 @@
 # Install C9 Dengan 1 Command
 
-- **Clone Repository.
+- **Clone Repository.**
 
 ```bash
  git clone https://github.com/sansabilagalih/c9.git
