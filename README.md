@@ -6,7 +6,7 @@
  sudo -i
 ```
 
-- **Gunakan screen agar C9 tetap jalan walaupun VPS di close.**
+- **Gunakan screen agar C9 tetap jalan walaupun VPS di tutup.**
 
 ```bash
  screen -S c9
