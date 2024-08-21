@@ -15,6 +15,3 @@ unzip c9.zip -d c9sdk
 # Masuk ke direktori c9sdk dan install SDK
 cd c9sdk/c9-master
 scripts/install-sdk.sh
-
-# Jalankan server Cloud9
-nodejs server.js -p 8080 -l 0.0.0.0 -a 123:123 -w /home
