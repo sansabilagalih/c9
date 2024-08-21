@@ -1,4 +1,4 @@
-# Install C9 Dengan 1 Command
+# Install C9
 
 - **Clone Repository.**
 
