@@ -36,13 +36,13 @@ cd c9
 chmod 777 install.sh
 ```
 
-- **Jalankan untuk menginstall.**
+- **Mulai Install C9.**
 
 ```bash
 ./install.sh
 ```
 
-- **Jalankan server Cloud9**
+- **Jalankan server C9**
 ```bash
 nodejs server.js -p 8080 -l 0.0.0.0 -a user:pass -w /home
 ```
