@@ -1,5 +1,17 @@
 # Install C9
 
+- **Masuk sebagai root.**
+
+```bash
+ sudo -i
+```
+
+- **Gunakan screen agar C9 tetap jalan walaupun VPS di close.**
+
+```bash
+ screen -S c9
+```
+
 - **Clone Repository.**
 
 ```bash
