@@ -12,6 +12,12 @@
  screen -S c9
 ```
 
+- **Install git.**
+
+```bash
+ apt install git
+```
+
 - **Clone Repository.**
 
 ```bash
