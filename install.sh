@@ -15,3 +15,4 @@ unzip c9.zip -d c9sdk
 # Masuk ke direktori c9sdk dan install SDK
 cd c9sdk/c9-master
 scripts/install-sdk.sh
+cd c9sdk/c9-master
