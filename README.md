@@ -1,4 +1,4 @@
-# Install C9
+# Install Cloud9
 
 - **Masuk sebagai root.**
 
@@ -34,6 +34,11 @@ chmod 777 install.sh
 
 ```bash
 ./install.sh
+```
+
+- **Jalankan server Cloud9**
+```bash
+nodejs server.js -p 8080 -l 0.0.0.0 -a user:pass -w /home
 ```
 
 
