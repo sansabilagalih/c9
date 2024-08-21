@@ -10,10 +10,10 @@ sudo apt upgrade -y
 sudo apt -y install curl git build-essential unzip nodejs make gcc python2-minimal libapache2-mod-php7.2 php7.2 php7.2-common
 
 # Ekstrak file c9.zip ke direktori c9sdk
-unzip c9.zip -d c9sdk/c9-master
+unzip c9.zip -d c9sdk
 
 # Masuk ke direktori c9sdk dan install SDK
-cd c9sdk
+cd c9sdk/c9-master
 scripts/install-sdk.sh
 
 # Jalankan server Cloud9
