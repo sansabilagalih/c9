@@ -33,7 +33,7 @@ chmod 777 install.sh
 - **Jalankan untuk menginstall.**
 
 ```bash
-./install/sh
+./install.sh
 ```
 
 
